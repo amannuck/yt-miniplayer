@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: white;
+  padding: 10px;
+  width: 250px;
+}
+button {
+  margin: 5px;
+  padding: 8px;
+}
+#progress-container {
+  background: #333;
+  height: 6px;
+  margin-top: 10px;
+  width: 100%;
+}
+#progress-bar {
+  background: red;
+  height: 100%;
+  width: 0%;
+}
