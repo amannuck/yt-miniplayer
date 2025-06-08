@@ -23,7 +23,4 @@ A Chrome extension that lets you pop out any YouTube video into a floating mini-
 - Chrome Extension APIs (Manifest V3)
 - JavaScript (YouTube IFrame API)
 
----
-
-## 📦 Folder Structure
 
